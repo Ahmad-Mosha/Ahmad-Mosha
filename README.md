@@ -9,7 +9,7 @@ Pursuing a Bachelor's degree in Computer Science (Expected Graduation: 2025/08) 
 
 💻 Tech Stack
 
-Programming Languages: Python, Java, C++, C#, javascript, Typescript, Dart Backend Frameworks: Nestjs, Express Databases: MySQL, MongoDB, Postgresql Version Control: Git
+Programming Languages: HTML , CSS, Python, Java, C++, C#, javascript, Typescript, Dart Backend Frameworks: Nestjs, Express Databases: MySQL, MongoDB, Postgresql Version Control: Git
 
 🤖 AI Enthusiast
 
