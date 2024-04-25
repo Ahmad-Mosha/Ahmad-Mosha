@@ -18,3 +18,5 @@ I am captivated by the incredible potential of Artificial Intelligence and how i
 🌱 Always Learning
 
 With a growth mindset, I'm constantly seeking opportunities to expand my knowledge and sharpen my programming skills. I enjoy tackling challenging problems and believe that learning is a never-ending journey.
+
+<img src="https://cdn.jsdelivr.net/npm/devicon/aarch64@original.svg" alt="AArch64 Icon" height="40" width="40">
