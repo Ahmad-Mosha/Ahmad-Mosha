@@ -7,7 +7,7 @@
 ---
 
 ## 🧐 About Me 
-- 🎓 **Computer Science Student** (Expected Graduation: **Aug 2025**)
+- 🎓 **Computer Science Graduate – Graduated June 2025** 
 - 💡 Passionate about **Backend Development** & **Artificial Intelligence**
 - 📚 Always learning and exploring **Machine Learning & System Design**
 - 🎯 Looking for opportunities in **Backend Engineering & AI-powered applications**
