@@ -68,4 +68,7 @@
   <a href="https://github.com/Ahmad-Mosha">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
+  <a href="https://www.linkedin.com/in/ahmad-gamal-b79859277/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
