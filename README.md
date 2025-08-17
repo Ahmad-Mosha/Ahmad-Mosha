@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Ahmed Gamal - Software Engineer 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&center=true&vCenter=true&width=500&lines=CS+Student+%7C+Software+Engineer;AI+Enthusiast+%7C+Tech+Lover;Building+Scalable+Apps+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&center=true&vCenter=true&width=500&lines=CS+Graduate+%7C+Software+Engineer;AI+Enthusiast+%7C+Tech+Lover;Building+Scalable+Apps+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
