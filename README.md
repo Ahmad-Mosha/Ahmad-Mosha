@@ -1,36 +1,51 @@
-# Ahmad Gamal
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3b57,100:2f81f7&height=200&section=header&text=Ahmad%20Gamal&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20Cairo%2C%20Egypt&descSize=18&descAlignY=58&animation=fadeIn" alt="Ahmad Gamal, Backend Engineer" />
+</p>
 
-Backend engineer from Cairo. I work mostly with Node.js, TypeScript, NestJS and PostgreSQL, and I build in Go too. I like understanding how things work under the hood, and building systems that stay correct when something goes wrong.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=I+build+backends+that+real+businesses+run+on;Node.js+%C2%B7+TypeScript+%C2%B7+NestJS+%C2%B7+PostgreSQL+%C2%B7+Go;Curious+about+what+happens+under+the+hood;Open+to+backend+roles+in+Cairo+or+remote" alt="Typing intro" />
+</p>
 
-Open to backend roles in Cairo or remote · [LinkedIn](https://www.linkedin.com/in/ahmad-mosha) · [ahmadmoshaa3@gmail.com](mailto:ahmadmoshaa3@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmad-mosha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ahmadmoshaa3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://stayfloww.duckdns.org"><img src="https://img.shields.io/badge/Live%20demo-Stay%20Flow-2ea44f?style=for-the-badge" alt="Stay Flow live demo" /></a>
+</p>
 
-## What I've built
+## About me
 
-**[Prime Market](https://github.com/Ahmad-Mosha/business-system-tenant)**: the operations system of an e-commerce business in Egypt, running in production since August 2026. It holds their inventory, orders, courier shipments, noon and Amazon settlements, purchasing and a double-entry ledger, in Arabic and English. I built it with the owners, from requirements to production.
-`NestJS` `PostgreSQL` `Next.js` `Docker` `AWS EC2`
+I'm a backend engineer. I like understanding how things work under the hood: how a database keeps data safe after a crash, how a proxy moves bytes between sockets, what really happens when two requests hit the same row at the same time.
 
-**[Stay Flow](https://github.com/Ahmad-Mosha/stay-flow)**: a booking platform for small hotels. A PostgreSQL exclusion constraint makes double booking impossible, and concurrency tests against a real database prove it. Retries are idempotent and emails go through a transactional outbox. [Live demo](https://stayfloww.duckdns.org)
-`NestJS` `Kysely` `PostgreSQL` `Testcontainers`
+The system I'm proudest of is the one a real e-commerce business in Egypt has run its daily operations on since August 2026. I built it with the owners, from the first conversation to production.
 
-**[DiskKV](https://github.com/Ahmad-Mosha/kv-store)**: a key-value storage engine in Go. Append-only log, in-memory index, checksummed records, crash recovery and compaction, served over TCP with connection and rate limits.
-`Go`
+## Tech stack
 
-**[RelayEdge](https://github.com/Ahmad-Mosha/http-reverse-proxy)**: an HTTP reverse proxy and load balancer built only on Node's core modules, with stream backpressure, keep-alive pooling, health checks and safe retries.
-`TypeScript` `Node.js`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,go,postgres,redis,docker,linux,aws,nextjs,git,githubactions&perline=6" alt="TypeScript, Node.js, NestJS, Go, PostgreSQL, Redis, Docker, Linux, AWS, Next.js, Git, GitHub Actions" />
+</p>
 
 ## Open source
 
-Merged
+| Project | Pull request | Status |
+|---|---|---|
+| <img src="https://skillicons.dev/icons?i=nestjs" width="20" /> NestJS | [#18090](https://github.com/nestjs/nest/pull/18090) Custom param decorators lost their data when it had a `schema` or `pipes` key | ![Merged](https://img.shields.io/badge/merged-8957e5?style=flat-square) |
+| <img src="https://skillicons.dev/icons?i=nestjs" width="20" /> NestJS | [#18156](https://github.com/nestjs/nest/pull/18156) `@All()` routes ignored versioning on the Fastify adapter. I reported it and fixed it | ![Merged](https://img.shields.io/badge/merged-8957e5?style=flat-square) |
+| TypeORM | [#12971](https://github.com/typeorm/typeorm/pull/12971) Support better-sqlite3 v13 | ![Open](https://img.shields.io/badge/in%20review-2ea44f?style=flat-square) |
+| Hono | [#409](https://github.com/honojs/node-server/pull/409) Fix an illegal invocation error on Node.js 26 | ![Open](https://img.shields.io/badge/in%20review-2ea44f?style=flat-square) |
+| Fastify | [#437](https://github.com/fastify/fastify-compress/pull/437) Document that `threshold` does not apply to streams | ![Open](https://img.shields.io/badge/in%20review-2ea44f?style=flat-square) |
 
-- [nestjs/nest#18090](https://github.com/nestjs/nest/pull/18090): custom param decorators lost their data when it had a `schema` or `pipes` key
-- [nestjs/nest#18156](https://github.com/nestjs/nest/pull/18156): `@All()` routes ignored versioning and route options on the Fastify adapter (I reported the issue and fixed it)
+## GitHub activity
 
-In review
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-Mosha&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Ahmad-Mosha&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+</p>
 
-- [typeorm/typeorm#12971](https://github.com/typeorm/typeorm/pull/12971): support better-sqlite3 v13
-- [honojs/node-server#409](https://github.com/honojs/node-server/pull/409): forward `duplex` to the native `Request`, fixing an illegal invocation error on Node.js 26
-- [fastify/fastify-compress#437](https://github.com/fastify/fastify-compress/pull/437): document that `threshold` does not apply to streams
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmad-Mosha/Ahmad-Mosha/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Ahmad-Mosha/Ahmad-Mosha/output/snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
 
-## Tools
-
-TypeScript · Node.js · NestJS · Go · PostgreSQL · Docker · Linux · AWS (EC2, S3) · Next.js
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,50:1f3b57,100:0d1117&height=110&section=footer" width="100%" alt="" />
