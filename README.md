@@ -14,9 +14,20 @@
 
 ## About me
 
-I'm a backend engineer. I like understanding how things work under the hood: how a database keeps data safe after a crash, how a proxy moves bytes between sockets, what really happens when two requests hit the same row at the same time.
-
-The system I'm proudest of is the one a real e-commerce business in Egypt has run its daily operations on since August 2026. I built it with the owners, from the first conversation to production.
+```ts
+const ahmad = {
+  role: "Backend Engineer",
+  location: "Cairo, Egypt",
+  languages: ["TypeScript", "Go", "SQL"],
+  focus: ["APIs", "Databases", "Concurrency", "System Design", "Networking"],
+  principles: [
+    "Data stays correct, even when two requests race or the process crashes",
+    "Understand one layer below the code: the database, the network, the runtime",
+    "Own the work end to end, from the first conversation to production",
+    "Fix the open-source tools I depend on",
+  ],
+};
+```
 
 ## Tech stack
 
@@ -30,14 +41,18 @@ The system I'm proudest of is the one a real e-commerce business in Egypt has ru
 |---|---|---|
 | <img src="https://skillicons.dev/icons?i=nestjs" width="20" /> NestJS | [#18090](https://github.com/nestjs/nest/pull/18090) Custom param decorators lost their data when it had a `schema` or `pipes` key | ![Merged](https://img.shields.io/badge/merged-8957e5?style=flat-square) |
 | <img src="https://skillicons.dev/icons?i=nestjs" width="20" /> NestJS | [#18156](https://github.com/nestjs/nest/pull/18156) `@All()` routes ignored versioning on the Fastify adapter. I reported it and fixed it | ![Merged](https://img.shields.io/badge/merged-8957e5?style=flat-square) |
+| Fastify | [#437](https://github.com/fastify/fastify-compress/pull/437) Document that `threshold` does not apply to streams | ![Merged](https://img.shields.io/badge/merged-8957e5?style=flat-square) |
 | TypeORM | [#12971](https://github.com/typeorm/typeorm/pull/12971) Support better-sqlite3 v13 | ![Open](https://img.shields.io/badge/in%20review-2ea44f?style=flat-square) |
 | Hono | [#409](https://github.com/honojs/node-server/pull/409) Fix an illegal invocation error on Node.js 26 | ![Open](https://img.shields.io/badge/in%20review-2ea44f?style=flat-square) |
-| Fastify | [#437](https://github.com/fastify/fastify-compress/pull/437) Document that `threshold` does not apply to streams | ![Open](https://img.shields.io/badge/in%20review-2ea44f?style=flat-square) |
 
 ## GitHub activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-Mosha&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Mosha&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Ahmad-Mosha&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
 </p>
 
