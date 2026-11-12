@@ -42,7 +42,7 @@ const ahmad = {
 | <img src="https://skillicons.dev/icons?i=nestjs" width="20" /> NestJS | [#18156](https://github.com/nestjs/nest/pull/18156) `@All()` routes ignored versioning on the Fastify adapter. I reported it and fixed it | ![Merged](https://img.shields.io/badge/merged-8957e5?style=flat-square) |
 | Fastify | [#437](https://github.com/fastify/fastify-compress/pull/437) Document that `threshold` does not apply to streams | ![Merged](https://img.shields.io/badge/merged-8957e5?style=flat-square) |
 | TypeORM | [#12971](https://github.com/typeorm/typeorm/pull/12971) Support better-sqlite3 v13 | ![Open](https://img.shields.io/badge/in%20review-2ea44f?style=flat-square) |
-| Hono | [#409](https://github.com/honojs/node-server/pull/409) Fix an illegal invocation error on Node.js 26 | ![Open](https://img.shields.io/badge/in%20review-2ea44f?style=flat-square) |
+| Hono | [#409](https://github.com/honojs/node-server/pull/409) Fix an illegal invocation error on Node.js 26 | ![Merged](https://img.shields.io/badge/in%20review-2ea44f?style=flat-square) |
 
 ## GitHub activity
 
